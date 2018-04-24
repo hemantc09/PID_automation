@@ -1,0 +1,13 @@
+By - Hemant Choudhari
+Designation: QA Engineer
+
+Read Me file:
+1. Data drive testing using selenium and XL file 
+
+Project details:
+- PID Automation
+- Read the data from the XL sheet
+- Verify and validate the offere details comparing the detailed read from the XL sheet
+- Add the PASS and FAIL result in the XL sheet.
+
+Note: Stay tuned for more details - I will add more detailed explanation about this project.
