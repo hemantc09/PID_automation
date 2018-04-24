@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.google.common.collect.Table.Cell;
 import org.apache.poi.ss.usermodel.DataFormatter;
 
-public class ReadGuru99ExcelFile {
+public class PID_Automantion_With_ExcelFile {
 
 	private static final String String = null;
 
@@ -281,7 +281,7 @@ public class ReadGuru99ExcelFile {
 
 		// Create an object of ReadGuru99ExcelFile class
 
-		ReadGuru99ExcelFile objExcelFile = new ReadGuru99ExcelFile();
+		PID_Automantion_With_ExcelFile objExcelFile = new PID_Automantion_With_ExcelFile();
 		String filepath = System.getProperty("user.dir") + "//src//testpackage";
 		objExcelFile.readExcel(filepath, "MasterPidList.xlsx", "bsttemp");
 		
